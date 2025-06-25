@@ -22,6 +22,7 @@ With passion and 6+ years experience of working in the Information Technology, S
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=k8s,aws,azure,docker,linux,debian,ansible,terraform" />
+  <br>
   <img src="https://skillicons.dev/icons?i=ruby,go,ts,nodejs,nextjs,mongodb,postgres" />
 </p>
 
@@ -33,7 +34,6 @@ With passion and 6+ years experience of working in the Information Technology, S
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=hlanlee&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Hlanlee's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hlanlee&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Hlanlee's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=hlanlee&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Hlanlee's Most Used Languages" />
 </div>
 
