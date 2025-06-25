@@ -3,7 +3,7 @@ With passion and 6+ years experience of working in the Information Technology, S
 <br>
 
 <div align="center">
-  <a href="lehoanglan97k31@gmail.com">
+  <a href="mailto:lehoanglan97k31@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/hlanlee" target="_blank">
