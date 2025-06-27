@@ -42,6 +42,7 @@ With passion and 6+ years experience of working in the Information Technology, S
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How I Passed the Certified Kubernetes Administrator (CKA) Exam](https://blog.hlanlee.tech/posts/review-ki-thi-cka-2024/)
+- [Leveraging eBPF in the Kubernetes Networking Model](https://blog.hlanlee.tech/posts/leveraging-ebpf-in-the-kubernetes-networking-model/)
 - [Understanding Docker: The Core Architecture Behind Containers](https://blog.hlanlee.tech/posts/understanding-docker-the-core-architecture-behind-containers/)
 - [Linux Networking Basics](https://blog.hlanlee.tech/posts/linux-networking-basics/)
 - [How I passed AWS Solutions Architect Associate (SAA-C03)](https://blog.hlanlee.tech/posts/review-ki-thi-aws-certified-solutions-architect-associate-certification-saa-c03)
